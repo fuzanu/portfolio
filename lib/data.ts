@@ -1,4 +1,4 @@
-import PostacatImg from "@/public/Postacat.png";
+import PostacatImg from "@/public/postacat.png";
 import MotorfinderImg from "@/public/motorfinder.png";
 import TrellocloneImg from "@/public/trelloclone.png";
 import MovielandImg from "@/public/movieland.jpg";
