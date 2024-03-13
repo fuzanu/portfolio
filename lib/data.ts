@@ -50,7 +50,7 @@ export const projectsData = [
       "Basically, Trello's front board, using Appwrite Backend, uses Drag & Drop and updates whenever a task has changed its status.",
     tags: ["Next.js", "Appwrite", "Tailwind", "Drag & Drop"],
     imageUrl: TrellocloneImg,
-    projectUrl: "https://trello-clone-liard-two.vercel.app/",
+    projectUrl: "https://trello-clone-eosin-two.vercel.app/",
   },
   {
     title: "MotorFinder",
